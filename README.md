@@ -11,3 +11,12 @@ Cours : [Lien de la doc React](https://react.dev/learn/tutorial-tic-tac-toe)
 #### Résumé du projet
 
 Le projet consiste à suivre la doc de react et à la comprendre en réalisant le célèbre jeu du "Tic Tac Toe". Le développement se fera en autonomie et uniquement en React pour se familiariser avec ce langage.
+
+
+####
+
+Installation : 
+
+1. Install node.js
+2. npm install
+3. npm start
